@@ -1,4 +1,4 @@
-# Monte-Carlo-Portfolio-Risk-nalysis
+# Monte-Carlo-Portfolio-Risk-analysis
 ### Objective
 Quantify portfolio downside risk using Monte Carlo simulation, with emphasis on
 probability of loss, maximum drawdown, Value at Risk (VaR), and Conditional VaR (CVaR).
