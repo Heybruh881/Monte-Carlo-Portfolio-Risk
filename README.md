@@ -17,7 +17,7 @@ probability of loss, maximum drawdown, Value at Risk (VaR), and Conditional VaR 
 - Does not model correlation across multiple assets
 - Results are illustrative, not predictive
 ### Possible Extensions
-- Fat-tailed return distributions (e.g., Student-t)
+- Fat-tailed return distributions 
 - Multi-asset portfolios with correlated returns
 - Regime-switching or stress-scenario modeling
 
